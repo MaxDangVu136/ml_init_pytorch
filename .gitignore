@@ -246,6 +246,9 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Files to ignore
+examples/tutorials/applications/oxford*
+
 # IPython
 profile_default/
 ipython_config.py
