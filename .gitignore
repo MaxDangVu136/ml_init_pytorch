@@ -247,7 +247,7 @@ target/
 .ipynb_checkpoints
 
 # Files to ignore
-examples/tutorials/applications/oxford*
+examples/tutorial/applications/oxford*
 
 # IPython
 profile_default/
